@@ -6,7 +6,6 @@ from reverse_geocoding import get_most_common_location_details
 from generate_titles import generate_titles
 
 
-
 def main():
     parser = argparse.ArgumentParser(
             description='Process a metadata CSV file.')

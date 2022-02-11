@@ -29,3 +29,4 @@ These are the tasks to do in order to improve the project to a production level 
 * Add unit tests.
 * Add metrics/alerting on external dependency such as the Google Maps API.
 * Add caching on API calls
+* Improve file structure
