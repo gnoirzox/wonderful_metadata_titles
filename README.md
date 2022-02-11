@@ -12,6 +12,14 @@ Please, retrieve your Google Maps api key in order to be able to access it. Plea
 
 Also, we rely on the `requests` library to make HTTP calls. In order to install it, please setup a virtual environment with `virtualenv` and then run `pip install -r rquirements.txt` to install the listed dependency in `requirements.txt`.
 
+## Run script
+
+In order to run the script, you need to provide the path of the csv file to be processed. 
+
+Example:
+
+`python main.py -f csv/1.csv`
+
 # Areas of improvements
 
 These are the tasks to do in order to improve the project to a production level state: 
