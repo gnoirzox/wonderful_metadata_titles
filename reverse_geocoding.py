@@ -1,6 +1,5 @@
 from collections import Counter
 import itertools
-import json
 import logging
 import os
 
